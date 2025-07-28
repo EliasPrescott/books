@@ -1,0 +1,4 @@
+- [Understanding the Odin Programming Language](https://odinbook.com/)
+- Model Building in Mathematical Programming
+- The New Evidence That Demands a Verdict
+- Hacker's Delight
