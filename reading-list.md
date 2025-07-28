@@ -1,4 +1,5 @@
 - [Understanding the Odin Programming Language](https://odinbook.com/)
+- [Logic for Programmers](https://leanpub.com/logic)
 - Model Building in Mathematical Programming
 - The New Evidence That Demands a Verdict
 - Hacker's Delight
